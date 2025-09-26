@@ -1,0 +1,7002 @@
+[
+    {
+        "internal_score": 16,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 74,
+        "grade": "D"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 45,
+        "grade": "B"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 60,
+        "grade": "B"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 92,
+        "grade": "B"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 5,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 84,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 9,
+        "assignments_completed": 0,
+        "attendance": 26,
+        "grade": "C"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 52,
+        "grade": "B"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 95,
+        "grade": "D"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 10,
+        "assignments_completed": 3,
+        "attendance": 48,
+        "grade": "C"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 44,
+        "grade": "C"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 16,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 64,
+        "grade": "D"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 13,
+        "assignments_completed": 2,
+        "attendance": 19,
+        "grade": "A"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 36,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 6,
+        "assignments_completed": 8,
+        "attendance": 18,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 56,
+        "grade": "D"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 81,
+        "grade": "B"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 4,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 45,
+        "grade": "C"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 10,
+        "assignments_completed": 1,
+        "attendance": 75,
+        "grade": "D"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 17,
+        "grade": "A"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 9,
+        "assignments_completed": 9,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 23,
+        "grade": "C"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 0,
+        "assignments_completed": 6,
+        "attendance": 21,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 74,
+        "grade": "D"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 48,
+        "grade": "B"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 86,
+        "grade": "A"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 0,
+        "assignments_completed": 0,
+        "attendance": 43,
+        "grade": "A"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 25,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 4,
+        "assignments_completed": 6,
+        "attendance": 100,
+        "grade": "A"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 2,
+        "assignments_completed": 3,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 20,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 33,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 22,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 86,
+        "grade": "C"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 75,
+        "grade": "A"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 64,
+        "grade": "D"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 66,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 12,
+        "assignments_completed": 7,
+        "attendance": 55,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 100,
+        "grade": "C"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 45,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 94,
+        "grade": "A"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 34,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 74,
+        "grade": "C"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 9,
+        "grade": "A"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 51,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 7,
+        "assignments_completed": 1,
+        "attendance": 89,
+        "grade": "F"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 60,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 29,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 14,
+        "grade": "D"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 89,
+        "grade": "A"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 9,
+        "assignments_completed": 4,
+        "attendance": 84,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 9,
+        "assignments_completed": 1,
+        "attendance": 78,
+        "grade": "A"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 72,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 90,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 4,
+        "assignments_completed": 10,
+        "attendance": 57,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 29,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 27,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 99,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 3,
+        "assignments_completed": 0,
+        "attendance": 95,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 9,
+        "assignments_completed": 9,
+        "attendance": 34,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 85,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 4,
+        "assignments_completed": 9,
+        "attendance": 61,
+        "grade": "C"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 96,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 1,
+        "assignments_completed": 0,
+        "attendance": 56,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 41,
+        "grade": "C"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 15,
+        "grade": "D"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 76,
+        "grade": "B"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 81,
+        "grade": "D"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 7,
+        "assignments_completed": 6,
+        "attendance": 36,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 67,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 95,
+        "grade": "C"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 4,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 80,
+        "grade": "D"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 3,
+        "assignments_completed": 4,
+        "attendance": 70,
+        "grade": "C"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 45,
+        "grade": "A"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 70,
+        "grade": "D"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 50,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 48,
+        "grade": "A"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 88,
+        "grade": "A"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 12,
+        "assignments_completed": 7,
+        "attendance": 30,
+        "grade": "F"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 96,
+        "grade": "D"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 85,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 7,
+        "assignments_completed": 3,
+        "attendance": 76,
+        "grade": "B"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 53,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 3,
+        "assignments_completed": 7,
+        "attendance": 5,
+        "grade": "A"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 52,
+        "grade": "C"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 81,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 38,
+        "grade": "C"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 81,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 29,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 21,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 9,
+        "assignments_completed": 5,
+        "attendance": 53,
+        "grade": "A"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 95,
+        "grade": "D"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 9,
+        "assignments_completed": 7,
+        "attendance": 42,
+        "grade": "A"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 6,
+        "assignments_completed": 8,
+        "attendance": 18,
+        "grade": "D"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 48,
+        "grade": "D"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 10,
+        "assignments_completed": 2,
+        "attendance": 68,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 87,
+        "grade": "B"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 36,
+        "grade": "C"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 10,
+        "assignments_completed": 6,
+        "attendance": 79,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 82,
+        "grade": "C"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 1,
+        "assignments_completed": 8,
+        "attendance": 82,
+        "grade": "D"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 7,
+        "assignments_completed": 6,
+        "attendance": 31,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 14,
+        "assignments_completed": 1,
+        "attendance": 58,
+        "grade": "D"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 24,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 91,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 83,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 9,
+        "assignments_completed": 0,
+        "attendance": 15,
+        "grade": "C"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 64,
+        "grade": "B"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 65,
+        "grade": "B"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 2,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 53,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 73,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 12,
+        "assignments_completed": 3,
+        "attendance": 10,
+        "grade": "A"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 48,
+        "grade": "B"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 38,
+        "grade": "B"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 10,
+        "assignments_completed": 4,
+        "attendance": 2,
+        "grade": "D"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 76,
+        "grade": "A"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 65,
+        "grade": "B"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 12,
+        "assignments_completed": 2,
+        "attendance": 31,
+        "grade": "B"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 3,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 23,
+        "grade": "C"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 25,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 40,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 13,
+        "grade": "A"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 82,
+        "grade": "B"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 18,
+        "grade": "A"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 36,
+        "grade": "F"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 85,
+        "grade": "D"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 14,
+        "assignments_completed": 10,
+        "attendance": 23,
+        "grade": "B"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 90,
+        "grade": "A"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 15,
+        "assignments_completed": 9,
+        "attendance": 18,
+        "grade": "D"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 14,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 14,
+        "assignments_completed": 5,
+        "attendance": 52,
+        "grade": "A"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 41,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 13,
+        "assignments_completed": 10,
+        "attendance": 96,
+        "grade": "C"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 96,
+        "grade": "F"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 72,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 56,
+        "grade": "B"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 57,
+        "grade": "D"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 74,
+        "grade": "A"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 6,
+        "assignments_completed": 2,
+        "attendance": 75,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 14,
+        "assignments_completed": 2,
+        "attendance": 77,
+        "grade": "B"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 11,
+        "assignments_completed": 10,
+        "attendance": 5,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 46,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 6,
+        "assignments_completed": 2,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 63,
+        "grade": "A"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 14,
+        "assignments_completed": 8,
+        "attendance": 98,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 7,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 60,
+        "grade": "B"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 12,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 8,
+        "assignments_completed": 6,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 15,
+        "assignments_completed": 9,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 10,
+        "grade": "D"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 28,
+        "grade": "D"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 9,
+        "assignments_completed": 9,
+        "attendance": 99,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 30,
+        "grade": "A"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 55,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 40,
+        "grade": "B"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 53,
+        "grade": "A"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 3,
+        "assignments_completed": 9,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 14,
+        "assignments_completed": 1,
+        "attendance": 30,
+        "grade": "A"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 96,
+        "grade": "D"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 77,
+        "grade": "F"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 1,
+        "assignments_completed": 8,
+        "attendance": 56,
+        "grade": "C"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 42,
+        "grade": "A"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 80,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 74,
+        "grade": "B"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 73,
+        "grade": "D"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 0,
+        "grade": "F"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 41,
+        "grade": "D"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 10,
+        "assignments_completed": 5,
+        "attendance": 54,
+        "grade": "B"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 14,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 8,
+        "assignments_completed": 0,
+        "attendance": 30,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 8,
+        "assignments_completed": 0,
+        "attendance": 48,
+        "grade": "D"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 50,
+        "grade": "A"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 9,
+        "assignments_completed": 4,
+        "attendance": 47,
+        "grade": "B"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 61,
+        "grade": "D"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 13,
+        "assignments_completed": 9,
+        "attendance": 18,
+        "grade": "B"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 37,
+        "grade": "B"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 85,
+        "grade": "B"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 11,
+        "assignments_completed": 9,
+        "attendance": 64,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 3,
+        "assignments_completed": 10,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 27,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 58,
+        "grade": "B"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 5,
+        "grade": "C"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 56,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 37,
+        "grade": "A"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 0,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 0,
+        "assignments_completed": 3,
+        "attendance": 64,
+        "grade": "D"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 3,
+        "assignments_completed": 8,
+        "attendance": 74,
+        "grade": "C"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 0,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 8,
+        "assignments_completed": 0,
+        "attendance": 24,
+        "grade": "B"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 18,
+        "grade": "C"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 11,
+        "assignments_completed": 4,
+        "attendance": 79,
+        "grade": "C"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 8,
+        "assignments_completed": 7,
+        "attendance": 4,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 38,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 99,
+        "grade": "B"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 9,
+        "assignments_completed": 9,
+        "attendance": 29,
+        "grade": "C"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 82,
+        "grade": "F"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 4,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 60,
+        "grade": "B"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 5,
+        "assignments_completed": 5,
+        "attendance": 93,
+        "grade": "B"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 45,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 0,
+        "assignments_completed": 6,
+        "attendance": 18,
+        "grade": "D"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 6,
+        "assignments_completed": 6,
+        "attendance": 90,
+        "grade": "A"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 10,
+        "assignments_completed": 5,
+        "attendance": 94,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 31,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 48,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 10,
+        "assignments_completed": 6,
+        "attendance": 2,
+        "grade": "B"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 63,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 15,
+        "assignments_completed": 1,
+        "attendance": 43,
+        "grade": "C"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 47,
+        "grade": "D"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 0,
+        "grade": "B"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 52,
+        "grade": "A"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 6,
+        "assignments_completed": 7,
+        "attendance": 10,
+        "grade": "B"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 70,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 39,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 80,
+        "grade": "C"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 13,
+        "assignments_completed": 9,
+        "attendance": 69,
+        "grade": "D"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 78,
+        "grade": "A"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 87,
+        "grade": "B"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 1,
+        "assignments_completed": 0,
+        "attendance": 74,
+        "grade": "D"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 72,
+        "grade": "D"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 15,
+        "grade": "B"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 3,
+        "assignments_completed": 8,
+        "attendance": 47,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 9,
+        "grade": "A"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 8,
+        "assignments_completed": 9,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 99,
+        "grade": "B"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 82,
+        "grade": "A"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 36,
+        "grade": "C"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 10,
+        "assignments_completed": 0,
+        "attendance": 19,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 8,
+        "assignments_completed": 10,
+        "attendance": 74,
+        "grade": "A"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 66,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 21,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 100,
+        "grade": "C"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 71,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 44,
+        "grade": "C"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 10,
+        "assignments_completed": 5,
+        "attendance": 93,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 27,
+        "grade": "A"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 26,
+        "grade": "B"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 20,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 16,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 1,
+        "assignments_completed": 2,
+        "attendance": 93,
+        "grade": "D"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 1,
+        "grade": "F"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 93,
+        "grade": "A"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 0,
+        "assignments_completed": 2,
+        "attendance": 68,
+        "grade": "B"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 33,
+        "grade": "C"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 17,
+        "grade": "D"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 6,
+        "assignments_completed": 2,
+        "attendance": 43,
+        "grade": "D"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 90,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 9,
+        "assignments_completed": 1,
+        "attendance": 44,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 55,
+        "grade": "A"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 29,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 15,
+        "grade": "C"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 85,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 2,
+        "grade": "C"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 40,
+        "grade": "F"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 68,
+        "grade": "B"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 7,
+        "assignments_completed": 1,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 17,
+        "grade": "C"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 53,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 46,
+        "grade": "D"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 8,
+        "grade": "F"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 55,
+        "grade": "F"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 14,
+        "assignments_completed": 6,
+        "attendance": 75,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 81,
+        "grade": "B"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 8,
+        "assignments_completed": 1,
+        "attendance": 40,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 7,
+        "assignments_completed": 3,
+        "attendance": 0,
+        "grade": "D"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 83,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 18,
+        "grade": "F"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 12,
+        "assignments_completed": 2,
+        "attendance": 24,
+        "grade": "D"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 96,
+        "grade": "D"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 71,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 29,
+        "grade": "F"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 10,
+        "grade": "B"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 100,
+        "grade": "D"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 93,
+        "grade": "C"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 21,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 65,
+        "grade": "C"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 17,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 0,
+        "assignments_completed": 8,
+        "attendance": 78,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 14,
+        "assignments_completed": 8,
+        "attendance": 41,
+        "grade": "B"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 50,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 15,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 70,
+        "grade": "F"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 3,
+        "assignments_completed": 5,
+        "attendance": 99,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 24,
+        "grade": "F"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 3,
+        "assignments_completed": 4,
+        "attendance": 80,
+        "grade": "D"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 57,
+        "grade": "B"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 2,
+        "assignments_completed": 2,
+        "attendance": 8,
+        "grade": "F"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 10,
+        "grade": "C"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 32,
+        "grade": "D"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 53,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 54,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 9,
+        "assignments_completed": 0,
+        "attendance": 84,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 58,
+        "grade": "C"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 100,
+        "grade": "F"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 60,
+        "grade": "D"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 49,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 68,
+        "grade": "A"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 16,
+        "grade": "C"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 94,
+        "grade": "B"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 8,
+        "assignments_completed": 9,
+        "attendance": 8,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 95,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 30,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 54,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 67,
+        "grade": "D"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 97,
+        "grade": "A"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 39,
+        "grade": "C"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 36,
+        "grade": "C"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 25,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 7,
+        "grade": "B"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 6,
+        "assignments_completed": 2,
+        "attendance": 60,
+        "grade": "D"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 57,
+        "grade": "D"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 10,
+        "assignments_completed": 8,
+        "attendance": 100,
+        "grade": "C"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 36,
+        "grade": "D"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 64,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 63,
+        "grade": "D"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 5,
+        "assignments_completed": 10,
+        "attendance": 49,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 22,
+        "grade": "A"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 35,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 10,
+        "assignments_completed": 0,
+        "attendance": 71,
+        "grade": "F"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 5,
+        "assignments_completed": 10,
+        "attendance": 25,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 8,
+        "assignments_completed": 9,
+        "attendance": 97,
+        "grade": "F"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 8,
+        "assignments_completed": 1,
+        "attendance": 86,
+        "grade": "B"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 4,
+        "assignments_completed": 8,
+        "attendance": 25,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 3,
+        "assignments_completed": 10,
+        "attendance": 59,
+        "grade": "C"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 83,
+        "grade": "B"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 50,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 16,
+        "grade": "D"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 15,
+        "assignments_completed": 9,
+        "attendance": 93,
+        "grade": "D"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 63,
+        "grade": "C"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 84,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 9,
+        "grade": "A"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 13,
+        "assignments_completed": 2,
+        "attendance": 71,
+        "grade": "D"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 6,
+        "assignments_completed": 7,
+        "attendance": 81,
+        "grade": "D"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 65,
+        "grade": "C"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 10,
+        "assignments_completed": 4,
+        "attendance": 86,
+        "grade": "C"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 72,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 28,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 94,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 3,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 3,
+        "assignments_completed": 2,
+        "attendance": 30,
+        "grade": "D"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 6,
+        "grade": "D"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 1,
+        "assignments_completed": 3,
+        "attendance": 6,
+        "grade": "A"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 6,
+        "grade": "C"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 18,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 44,
+        "grade": "D"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 55,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 10,
+        "assignments_completed": 0,
+        "attendance": 40,
+        "grade": "B"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 7,
+        "assignments_completed": 8,
+        "attendance": 92,
+        "grade": "A"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 5,
+        "assignments_completed": 5,
+        "attendance": 79,
+        "grade": "F"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 80,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 11,
+        "assignments_completed": 10,
+        "attendance": 47,
+        "grade": "F"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 34,
+        "grade": "F"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 69,
+        "grade": "D"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 50,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 37,
+        "grade": "B"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 87,
+        "grade": "D"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 82,
+        "grade": "F"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 36,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 28,
+        "grade": "C"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 14,
+        "assignments_completed": 2,
+        "attendance": 83,
+        "grade": "D"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 49,
+        "grade": "B"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 57,
+        "grade": "D"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 95,
+        "grade": "B"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 23,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 2,
+        "assignments_completed": 5,
+        "attendance": 97,
+        "grade": "B"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 0,
+        "assignments_completed": 3,
+        "attendance": 78,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 0,
+        "grade": "C"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 10,
+        "assignments_completed": 1,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 14,
+        "assignments_completed": 6,
+        "attendance": 11,
+        "grade": "D"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 31,
+        "grade": "D"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 5,
+        "assignments_completed": 10,
+        "attendance": 56,
+        "grade": "F"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 33,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 3,
+        "grade": "A"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 84,
+        "grade": "D"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 10,
+        "assignments_completed": 3,
+        "attendance": 51,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 41,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 72,
+        "grade": "B"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 33,
+        "grade": "B"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 9,
+        "grade": "A"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 4,
+        "assignments_completed": 2,
+        "attendance": 15,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 6,
+        "assignments_completed": 8,
+        "attendance": 64,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 74,
+        "grade": "D"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 97,
+        "grade": "A"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 11,
+        "assignments_completed": 2,
+        "attendance": 44,
+        "grade": "A"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 1,
+        "grade": "F"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 72,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 9,
+        "assignments_completed": 0,
+        "attendance": 21,
+        "grade": "A"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 8,
+        "assignments_completed": 0,
+        "attendance": 90,
+        "grade": "C"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 82,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 51,
+        "grade": "D"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 24,
+        "grade": "A"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 15,
+        "assignments_completed": 10,
+        "attendance": 13,
+        "grade": "B"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 13,
+        "assignments_completed": 0,
+        "attendance": 47,
+        "grade": "B"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 14,
+        "grade": "D"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 14,
+        "assignments_completed": 5,
+        "attendance": 70,
+        "grade": "B"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 37,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 1,
+        "assignments_completed": 1,
+        "attendance": 51,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 5,
+        "grade": "C"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 28,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 10,
+        "assignments_completed": 1,
+        "attendance": 13,
+        "grade": "B"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 96,
+        "grade": "F"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 14,
+        "assignments_completed": 2,
+        "attendance": 80,
+        "grade": "A"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 65,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 50,
+        "grade": "A"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 3,
+        "assignments_completed": 4,
+        "attendance": 80,
+        "grade": "D"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 9,
+        "assignments_completed": 1,
+        "attendance": 36,
+        "grade": "A"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 71,
+        "grade": "D"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 5,
+        "assignments_completed": 8,
+        "attendance": 94,
+        "grade": "B"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 9,
+        "assignments_completed": 1,
+        "attendance": 52,
+        "grade": "A"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 3,
+        "assignments_completed": 9,
+        "attendance": 75,
+        "grade": "A"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 11,
+        "assignments_completed": 2,
+        "attendance": 53,
+        "grade": "A"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 32,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 22,
+        "grade": "D"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 13,
+        "assignments_completed": 6,
+        "attendance": 47,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 12,
+        "assignments_completed": 5,
+        "attendance": 94,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 53,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 49,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 5,
+        "assignments_completed": 5,
+        "attendance": 80,
+        "grade": "B"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 1,
+        "assignments_completed": 3,
+        "attendance": 3,
+        "grade": "A"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 12,
+        "grade": "A"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 95,
+        "grade": "F"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 0,
+        "assignments_completed": 4,
+        "attendance": 39,
+        "grade": "C"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 0,
+        "assignments_completed": 6,
+        "attendance": 86,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 12,
+        "assignments_completed": 3,
+        "attendance": 40,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 26,
+        "grade": "C"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 54,
+        "grade": "A"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 19,
+        "grade": "D"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 76,
+        "grade": "B"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 24,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 37,
+        "grade": "B"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 11,
+        "assignments_completed": 4,
+        "attendance": 4,
+        "grade": "A"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 8,
+        "grade": "C"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 18,
+        "grade": "D"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 7,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 6,
+        "assignments_completed": 10,
+        "attendance": 20,
+        "grade": "B"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 12,
+        "assignments_completed": 7,
+        "attendance": 68,
+        "grade": "F"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 86,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 40,
+        "grade": "F"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 45,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 69,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 1,
+        "assignments_completed": 0,
+        "attendance": 3,
+        "grade": "A"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 12,
+        "assignments_completed": 7,
+        "attendance": 46,
+        "grade": "B"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 30,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 38,
+        "grade": "F"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 77,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 6,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 9,
+        "assignments_completed": 4,
+        "attendance": 89,
+        "grade": "C"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 54,
+        "grade": "B"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 20,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 84,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 42,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 32,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 20,
+        "grade": "C"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 65,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 12,
+        "assignments_completed": 5,
+        "attendance": 47,
+        "grade": "D"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 15,
+        "assignments_completed": 9,
+        "attendance": 30,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 41,
+        "grade": "C"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 6,
+        "assignments_completed": 0,
+        "attendance": 55,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 11,
+        "assignments_completed": 10,
+        "attendance": 48,
+        "grade": "A"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 22,
+        "grade": "F"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 50,
+        "grade": "D"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 50,
+        "grade": "C"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 3,
+        "assignments_completed": 2,
+        "attendance": 4,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 59,
+        "grade": "D"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 35,
+        "grade": "A"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 54,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 43,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 77,
+        "grade": "D"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 41,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 84,
+        "grade": "D"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 60,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 7,
+        "assignments_completed": 1,
+        "attendance": 30,
+        "grade": "D"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 3,
+        "assignments_completed": 8,
+        "attendance": 37,
+        "grade": "D"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 69,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 18,
+        "grade": "B"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 73,
+        "grade": "A"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 2,
+        "assignments_completed": 5,
+        "attendance": 20,
+        "grade": "C"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 41,
+        "grade": "F"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 52,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 11,
+        "assignments_completed": 10,
+        "attendance": 8,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 100,
+        "grade": "B"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 18,
+        "grade": "B"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 91,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 34,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 15,
+        "assignments_completed": 0,
+        "attendance": 86,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 42,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 6,
+        "assignments_completed": 0,
+        "attendance": 25,
+        "grade": "A"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 9,
+        "assignments_completed": 7,
+        "attendance": 6,
+        "grade": "C"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 33,
+        "grade": "A"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 24,
+        "grade": "D"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 19,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 4,
+        "grade": "C"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 6,
+        "assignments_completed": 6,
+        "attendance": 94,
+        "grade": "F"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 47,
+        "grade": "D"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 13,
+        "assignments_completed": 0,
+        "attendance": 31,
+        "grade": "C"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 53,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 48,
+        "grade": "A"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 1,
+        "assignments_completed": 1,
+        "attendance": 71,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 15,
+        "assignments_completed": 1,
+        "attendance": 34,
+        "grade": "D"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 13,
+        "assignments_completed": 2,
+        "attendance": 93,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 10,
+        "assignments_completed": 6,
+        "attendance": 31,
+        "grade": "A"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 52,
+        "grade": "C"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 46,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 49,
+        "grade": "A"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 4,
+        "assignments_completed": 6,
+        "attendance": 5,
+        "grade": "D"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 26,
+        "grade": "B"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 88,
+        "grade": "C"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 73,
+        "grade": "F"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 11,
+        "assignments_completed": 9,
+        "attendance": 41,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 24,
+        "grade": "F"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 14,
+        "assignments_completed": 2,
+        "attendance": 78,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 21,
+        "grade": "A"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 87,
+        "grade": "B"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 49,
+        "grade": "A"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 9,
+        "grade": "D"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 87,
+        "grade": "B"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 73,
+        "grade": "B"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 15,
+        "assignments_completed": 6,
+        "attendance": 91,
+        "grade": "B"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 77,
+        "grade": "A"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 89,
+        "grade": "D"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 9,
+        "assignments_completed": 4,
+        "attendance": 79,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 7,
+        "grade": "F"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 71,
+        "grade": "D"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 12,
+        "assignments_completed": 3,
+        "attendance": 62,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 33,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 1,
+        "assignments_completed": 2,
+        "attendance": 33,
+        "grade": "C"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 36,
+        "grade": "B"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 15,
+        "assignments_completed": 1,
+        "attendance": 50,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 97,
+        "grade": "C"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 10,
+        "assignments_completed": 5,
+        "attendance": 19,
+        "grade": "A"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 6,
+        "assignments_completed": 0,
+        "attendance": 31,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 14,
+        "assignments_completed": 5,
+        "attendance": 75,
+        "grade": "A"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 30,
+        "grade": "A"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 4,
+        "assignments_completed": 10,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 80,
+        "grade": "B"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 2,
+        "assignments_completed": 0,
+        "attendance": 63,
+        "grade": "F"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 89,
+        "grade": "C"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 8,
+        "assignments_completed": 7,
+        "attendance": 52,
+        "grade": "A"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 72,
+        "grade": "B"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 49,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 34,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 10,
+        "assignments_completed": 1,
+        "attendance": 63,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 0,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 42,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 34,
+        "grade": "F"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 24,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 25,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 86,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 25,
+        "grade": "D"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 58,
+        "grade": "B"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 13,
+        "assignments_completed": 8,
+        "attendance": 5,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 100,
+        "grade": "A"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 55,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 0,
+        "grade": "B"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 3,
+        "assignments_completed": 6,
+        "attendance": 36,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 73,
+        "grade": "C"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 0,
+        "assignments_completed": 3,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 12,
+        "grade": "D"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 73,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 37,
+        "grade": "F"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 24,
+        "grade": "C"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 79,
+        "grade": "D"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 56,
+        "grade": "B"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 3,
+        "assignments_completed": 7,
+        "attendance": 33,
+        "grade": "C"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 5,
+        "assignments_completed": 10,
+        "attendance": 14,
+        "grade": "B"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 27,
+        "grade": "F"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 95,
+        "grade": "A"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 23,
+        "grade": "D"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 13,
+        "assignments_completed": 5,
+        "attendance": 72,
+        "grade": "C"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 11,
+        "assignments_completed": 4,
+        "attendance": 65,
+        "grade": "F"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 66,
+        "grade": "C"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 89,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 68,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 43,
+        "grade": "A"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 3,
+        "assignments_completed": 0,
+        "attendance": 10,
+        "grade": "A"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 6,
+        "assignments_completed": 6,
+        "attendance": 63,
+        "grade": "F"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 3,
+        "assignments_completed": 2,
+        "attendance": 56,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 9,
+        "assignments_completed": 4,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 10,
+        "assignments_completed": 8,
+        "attendance": 51,
+        "grade": "B"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 16,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 19,
+        "grade": "C"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 1,
+        "assignments_completed": 2,
+        "attendance": 70,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 2,
+        "assignments_completed": 3,
+        "attendance": 50,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 4,
+        "assignments_completed": 2,
+        "attendance": 25,
+        "grade": "C"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 4,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 13,
+        "assignments_completed": 1,
+        "attendance": 38,
+        "grade": "F"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 3,
+        "assignments_completed": 5,
+        "attendance": 49,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 54,
+        "grade": "D"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 13,
+        "assignments_completed": 5,
+        "attendance": 87,
+        "grade": "F"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 55,
+        "grade": "A"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 77,
+        "grade": "B"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 15,
+        "assignments_completed": 1,
+        "attendance": 70,
+        "grade": "D"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 81,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 52,
+        "grade": "F"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 98,
+        "grade": "C"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 9,
+        "assignments_completed": 5,
+        "attendance": 27,
+        "grade": "A"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 23,
+        "grade": "C"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 13,
+        "assignments_completed": 2,
+        "attendance": 53,
+        "grade": "D"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 93,
+        "grade": "B"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 5,
+        "assignments_completed": 5,
+        "attendance": 80,
+        "grade": "B"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 2,
+        "assignments_completed": 2,
+        "attendance": 11,
+        "grade": "D"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 29,
+        "grade": "D"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 61,
+        "grade": "D"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 20,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 14,
+        "assignments_completed": 6,
+        "attendance": 49,
+        "grade": "F"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 11,
+        "assignments_completed": 9,
+        "attendance": 89,
+        "grade": "D"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 4,
+        "assignments_completed": 6,
+        "attendance": 31,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 98,
+        "grade": "C"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 29,
+        "grade": "B"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 60,
+        "grade": "C"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 11,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 16,
+        "grade": "A"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 14,
+        "grade": "B"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 10,
+        "assignments_completed": 0,
+        "attendance": 52,
+        "grade": "C"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 0,
+        "assignments_completed": 2,
+        "attendance": 70,
+        "grade": "A"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 15,
+        "assignments_completed": 10,
+        "attendance": 17,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 96,
+        "grade": "C"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 7,
+        "assignments_completed": 8,
+        "attendance": 65,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 70,
+        "grade": "A"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 8,
+        "assignments_completed": 2,
+        "attendance": 91,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 12,
+        "assignments_completed": 0,
+        "attendance": 94,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 100,
+        "grade": "A"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 64,
+        "grade": "B"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 47,
+        "grade": "C"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 61,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 0,
+        "assignments_completed": 2,
+        "attendance": 55,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 26,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 53,
+        "grade": "D"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 96,
+        "grade": "A"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 8,
+        "assignments_completed": 5,
+        "attendance": 55,
+        "grade": "D"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 12,
+        "assignments_completed": 5,
+        "attendance": 47,
+        "grade": "D"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 10,
+        "assignments_completed": 8,
+        "attendance": 44,
+        "grade": "B"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 86,
+        "grade": "D"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 25,
+        "grade": "C"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 87,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 0,
+        "assignments_completed": 6,
+        "attendance": 5,
+        "grade": "C"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 43,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 93,
+        "grade": "A"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 96,
+        "grade": "B"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 4,
+        "assignments_completed": 9,
+        "attendance": 66,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 17,
+        "grade": "A"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 10,
+        "assignments_completed": 5,
+        "attendance": 44,
+        "grade": "C"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 0,
+        "assignments_completed": 8,
+        "attendance": 95,
+        "grade": "B"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 80,
+        "grade": "B"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 2,
+        "assignments_completed": 3,
+        "attendance": 56,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 4,
+        "assignments_completed": 2,
+        "attendance": 15,
+        "grade": "F"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 13,
+        "assignments_completed": 6,
+        "attendance": 94,
+        "grade": "C"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 10,
+        "assignments_completed": 10,
+        "attendance": 4,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 1,
+        "assignments_completed": 5,
+        "attendance": 79,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 40,
+        "grade": "C"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 33,
+        "grade": "C"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 10,
+        "assignments_completed": 8,
+        "attendance": 93,
+        "grade": "B"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 68,
+        "grade": "B"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 41,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 46,
+        "grade": "C"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 25,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 28,
+        "grade": "B"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 5,
+        "assignments_completed": 1,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 15,
+        "assignments_completed": 10,
+        "attendance": 9,
+        "grade": "F"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 10,
+        "assignments_completed": 1,
+        "attendance": 7,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 8,
+        "assignments_completed": 3,
+        "attendance": 65,
+        "grade": "D"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 69,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 15,
+        "assignments_completed": 0,
+        "attendance": 12,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 9,
+        "assignments_completed": 8,
+        "attendance": 45,
+        "grade": "A"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 9,
+        "assignments_completed": 9,
+        "attendance": 52,
+        "grade": "B"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 17,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 15,
+        "grade": "F"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 58,
+        "grade": "F"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 5,
+        "assignments_completed": 0,
+        "attendance": 64,
+        "grade": "F"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 73,
+        "grade": "C"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 8,
+        "assignments_completed": 4,
+        "attendance": 55,
+        "grade": "F"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 67,
+        "grade": "D"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 17,
+        "grade": "C"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 30,
+        "grade": "F"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 71,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 13,
+        "assignments_completed": 10,
+        "attendance": 20,
+        "grade": "A"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 3,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 0,
+        "assignments_completed": 8,
+        "attendance": 30,
+        "grade": "A"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 73,
+        "grade": "D"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 14,
+        "assignments_completed": 1,
+        "attendance": 87,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 12,
+        "assignments_completed": 5,
+        "attendance": 44,
+        "grade": "A"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 24,
+        "grade": "B"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 46,
+        "grade": "A"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 10,
+        "assignments_completed": 8,
+        "attendance": 90,
+        "grade": "C"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 9,
+        "assignments_completed": 1,
+        "attendance": 40,
+        "grade": "B"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 2,
+        "grade": "D"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 14,
+        "assignments_completed": 1,
+        "attendance": 13,
+        "grade": "C"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 6,
+        "assignments_completed": 6,
+        "attendance": 17,
+        "grade": "D"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 4,
+        "assignments_completed": 10,
+        "attendance": 92,
+        "grade": "B"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 25,
+        "grade": "A"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 57,
+        "grade": "A"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 7,
+        "assignments_completed": 3,
+        "attendance": 37,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 8,
+        "assignments_completed": 10,
+        "attendance": 10,
+        "grade": "F"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 12,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 87,
+        "grade": "D"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 71,
+        "grade": "A"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 100,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 65,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 72,
+        "grade": "A"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 64,
+        "grade": "C"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 13,
+        "assignments_completed": 9,
+        "attendance": 100,
+        "grade": "B"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 2,
+        "assignments_completed": 6,
+        "attendance": 41,
+        "grade": "C"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 6,
+        "assignments_completed": 8,
+        "attendance": 71,
+        "grade": "D"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 8,
+        "assignments_completed": 1,
+        "attendance": 5,
+        "grade": "D"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 39,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 2,
+        "assignments_completed": 3,
+        "attendance": 68,
+        "grade": "A"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 75,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 10,
+        "assignments_completed": 0,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 53,
+        "grade": "D"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 8,
+        "assignments_completed": 7,
+        "attendance": 15,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 78,
+        "grade": "F"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 9,
+        "grade": "F"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 5,
+        "assignments_completed": 1,
+        "attendance": 64,
+        "grade": "D"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 15,
+        "assignments_completed": 9,
+        "attendance": 68,
+        "grade": "B"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 87,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 14,
+        "assignments_completed": 3,
+        "attendance": 29,
+        "grade": "C"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 46,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 2,
+        "assignments_completed": 1,
+        "attendance": 42,
+        "grade": "A"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 14,
+        "assignments_completed": 1,
+        "attendance": 40,
+        "grade": "F"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 8,
+        "assignments_completed": 10,
+        "attendance": 35,
+        "grade": "C"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 4,
+        "assignments_completed": 7,
+        "attendance": 61,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 31,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 31,
+        "grade": "C"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 96,
+        "grade": "C"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 75,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 6,
+        "assignments_completed": 3,
+        "attendance": 16,
+        "grade": "A"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 85,
+        "grade": "F"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 13,
+        "assignments_completed": 10,
+        "attendance": 18,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 39,
+        "grade": "F"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 59,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 89,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 8,
+        "grade": "D"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 8,
+        "assignments_completed": 10,
+        "attendance": 43,
+        "grade": "B"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 15,
+        "assignments_completed": 1,
+        "attendance": 23,
+        "grade": "C"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 0,
+        "assignments_completed": 2,
+        "attendance": 40,
+        "grade": "D"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 10,
+        "assignments_completed": 2,
+        "attendance": 16,
+        "grade": "C"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 4,
+        "assignments_completed": 2,
+        "attendance": 44,
+        "grade": "B"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 3,
+        "assignments_completed": 0,
+        "attendance": 20,
+        "grade": "D"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 24,
+        "grade": "D"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 69,
+        "grade": "D"
+    },
+    {
+        "internal_score": 43,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 67,
+        "grade": "B"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 70,
+        "grade": "C"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 11,
+        "assignments_completed": 5,
+        "attendance": 68,
+        "grade": "A"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 96,
+        "grade": "C"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 95,
+        "grade": "F"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 7,
+        "assignments_completed": 7,
+        "attendance": 18,
+        "grade": "D"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 4,
+        "assignments_completed": 9,
+        "attendance": 64,
+        "grade": "C"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 92,
+        "grade": "D"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 14,
+        "assignments_completed": 0,
+        "attendance": 16,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 66,
+        "grade": "D"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 2,
+        "assignments_completed": 10,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 18,
+        "grade": "C"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 10,
+        "assignments_completed": 4,
+        "attendance": 32,
+        "grade": "F"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 33,
+        "grade": "A"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 1,
+        "assignments_completed": 2,
+        "attendance": 93,
+        "grade": "D"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 15,
+        "assignments_completed": 10,
+        "attendance": 14,
+        "grade": "B"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 6,
+        "assignments_completed": 10,
+        "attendance": 98,
+        "grade": "B"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 5,
+        "assignments_completed": 1,
+        "attendance": 55,
+        "grade": "B"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 1,
+        "assignments_completed": 3,
+        "attendance": 68,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 72,
+        "grade": "C"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 13,
+        "assignments_completed": 2,
+        "attendance": 4,
+        "grade": "D"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 76,
+        "grade": "B"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 5,
+        "assignments_completed": 1,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 2,
+        "assignments_completed": 5,
+        "attendance": 24,
+        "grade": "D"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 13,
+        "assignments_completed": 8,
+        "attendance": 47,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 92,
+        "grade": "D"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 6,
+        "assignments_completed": 6,
+        "attendance": 93,
+        "grade": "C"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 4,
+        "assignments_completed": 9,
+        "attendance": 12,
+        "grade": "B"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 76,
+        "grade": "B"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 8,
+        "assignments_completed": 7,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 6,
+        "assignments_completed": 10,
+        "attendance": 68,
+        "grade": "F"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 90,
+        "grade": "D"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 8,
+        "assignments_completed": 9,
+        "attendance": 71,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 10,
+        "assignments_completed": 10,
+        "attendance": 47,
+        "grade": "D"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 28,
+        "grade": "F"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 74,
+        "grade": "B"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 15,
+        "assignments_completed": 2,
+        "attendance": 1,
+        "grade": "F"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 61,
+        "grade": "B"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 68,
+        "grade": "F"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 7,
+        "assignments_completed": 3,
+        "attendance": 70,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 5,
+        "assignments_completed": 8,
+        "attendance": 21,
+        "grade": "F"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 36,
+        "grade": "F"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 1,
+        "assignments_completed": 1,
+        "attendance": 86,
+        "grade": "F"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 86,
+        "grade": "B"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 1,
+        "grade": "F"
+    },
+    {
+        "internal_score": 15,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 85,
+        "grade": "D"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 8,
+        "assignments_completed": 1,
+        "attendance": 1,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 0,
+        "assignments_completed": 5,
+        "attendance": 91,
+        "grade": "B"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 0,
+        "assignments_completed": 9,
+        "attendance": 18,
+        "grade": "B"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 15,
+        "assignments_completed": 10,
+        "attendance": 9,
+        "grade": "B"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 19,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 44,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 84,
+        "grade": "B"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 29,
+        "grade": "C"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 4,
+        "assignments_completed": 10,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 12,
+        "assignments_completed": 1,
+        "attendance": 74,
+        "grade": "B"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 2,
+        "grade": "C"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 14,
+        "assignments_completed": 9,
+        "attendance": 75,
+        "grade": "B"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 11,
+        "assignments_completed": 0,
+        "attendance": 17,
+        "grade": "B"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 7,
+        "assignments_completed": 1,
+        "attendance": 75,
+        "grade": "C"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 88,
+        "grade": "F"
+    },
+    {
+        "internal_score": 49,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 9,
+        "grade": "A"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 15,
+        "assignments_completed": 4,
+        "attendance": 71,
+        "grade": "C"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 45,
+        "grade": "F"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 1,
+        "assignments_completed": 7,
+        "attendance": 77,
+        "grade": "A"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 15,
+        "assignments_completed": 8,
+        "attendance": 27,
+        "grade": "F"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 35,
+        "grade": "C"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 6,
+        "assignments_completed": 7,
+        "attendance": 72,
+        "grade": "A"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 8,
+        "assignments_completed": 9,
+        "attendance": 84,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 3,
+        "assignments_completed": 9,
+        "attendance": 91,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 0,
+        "assignments_completed": 8,
+        "attendance": 9,
+        "grade": "C"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 86,
+        "grade": "F"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 13,
+        "assignments_completed": 4,
+        "attendance": 74,
+        "grade": "D"
+    },
+    {
+        "internal_score": 20,
+        "study_hours": 1,
+        "assignments_completed": 3,
+        "attendance": 54,
+        "grade": "D"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 52,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 0,
+        "assignments_completed": 0,
+        "attendance": 8,
+        "grade": "C"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 0,
+        "assignments_completed": 10,
+        "attendance": 47,
+        "grade": "B"
+    },
+    {
+        "internal_score": 17,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 91,
+        "grade": "D"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 30,
+        "grade": "B"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 6,
+        "assignments_completed": 10,
+        "attendance": 30,
+        "grade": "C"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 7,
+        "assignments_completed": 4,
+        "attendance": 51,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 9,
+        "assignments_completed": 6,
+        "attendance": 65,
+        "grade": "C"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 1,
+        "assignments_completed": 0,
+        "attendance": 62,
+        "grade": "B"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 0,
+        "assignments_completed": 1,
+        "attendance": 45,
+        "grade": "B"
+    },
+    {
+        "internal_score": 5,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 89,
+        "grade": "F"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 58,
+        "grade": "B"
+    },
+    {
+        "internal_score": 39,
+        "study_hours": 15,
+        "assignments_completed": 0,
+        "attendance": 12,
+        "grade": "B"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 12,
+        "assignments_completed": 6,
+        "attendance": 89,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 65,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 45,
+        "grade": "B"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 96,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 3,
+        "assignments_completed": 4,
+        "attendance": 90,
+        "grade": "F"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 40,
+        "grade": "F"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 9,
+        "assignments_completed": 2,
+        "attendance": 66,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 15,
+        "grade": "C"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 13,
+        "assignments_completed": 10,
+        "attendance": 87,
+        "grade": "C"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 1,
+        "assignments_completed": 2,
+        "attendance": 20,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 80,
+        "grade": "C"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 12,
+        "assignments_completed": 9,
+        "attendance": 75,
+        "grade": "C"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 3,
+        "assignments_completed": 10,
+        "attendance": 26,
+        "grade": "B"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 9,
+        "assignments_completed": 10,
+        "attendance": 61,
+        "grade": "B"
+    },
+    {
+        "internal_score": 37,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 80,
+        "grade": "B"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 3,
+        "assignments_completed": 5,
+        "attendance": 22,
+        "grade": "D"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 1,
+        "grade": "A"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 14,
+        "assignments_completed": 4,
+        "attendance": 10,
+        "grade": "F"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 7,
+        "assignments_completed": 2,
+        "attendance": 31,
+        "grade": "F"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 15,
+        "grade": "B"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 5,
+        "assignments_completed": 9,
+        "attendance": 36,
+        "grade": "B"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 10,
+        "assignments_completed": 6,
+        "attendance": 81,
+        "grade": "C"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 10,
+        "assignments_completed": 7,
+        "attendance": 77,
+        "grade": "C"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 10,
+        "assignments_completed": 9,
+        "attendance": 89,
+        "grade": "D"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 9,
+        "study_hours": 1,
+        "assignments_completed": 6,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 95,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 52,
+        "grade": "C"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 11,
+        "assignments_completed": 6,
+        "attendance": 5,
+        "grade": "C"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 3,
+        "assignments_completed": 1,
+        "attendance": 15,
+        "grade": "A"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 14,
+        "assignments_completed": 10,
+        "attendance": 76,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 8,
+        "assignments_completed": 0,
+        "attendance": 47,
+        "grade": "C"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 15,
+        "assignments_completed": 7,
+        "attendance": 58,
+        "grade": "F"
+    },
+    {
+        "internal_score": 46,
+        "study_hours": 14,
+        "assignments_completed": 6,
+        "attendance": 0,
+        "grade": "A"
+    },
+    {
+        "internal_score": 6,
+        "study_hours": 6,
+        "assignments_completed": 5,
+        "attendance": 0,
+        "grade": "F"
+    },
+    {
+        "internal_score": 21,
+        "study_hours": 2,
+        "assignments_completed": 5,
+        "attendance": 30,
+        "grade": "D"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 6,
+        "assignments_completed": 1,
+        "attendance": 66,
+        "grade": "D"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 85,
+        "grade": "D"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 4,
+        "assignments_completed": 6,
+        "attendance": 78,
+        "grade": "A"
+    },
+    {
+        "internal_score": 16,
+        "study_hours": 4,
+        "assignments_completed": 1,
+        "attendance": 95,
+        "grade": "D"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 5,
+        "assignments_completed": 6,
+        "attendance": 87,
+        "grade": "D"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 1,
+        "assignments_completed": 10,
+        "attendance": 9,
+        "grade": "F"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 2,
+        "assignments_completed": 7,
+        "attendance": 10,
+        "grade": "C"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 14,
+        "assignments_completed": 7,
+        "attendance": 80,
+        "grade": "F"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 7,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 3,
+        "assignments_completed": 9,
+        "attendance": 86,
+        "grade": "D"
+    },
+    {
+        "internal_score": 41,
+        "study_hours": 14,
+        "assignments_completed": 10,
+        "attendance": 17,
+        "grade": "B"
+    },
+    {
+        "internal_score": 38,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 86,
+        "grade": "B"
+    },
+    {
+        "internal_score": 0,
+        "study_hours": 5,
+        "assignments_completed": 4,
+        "attendance": 45,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 63,
+        "grade": "B"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 7,
+        "assignments_completed": 9,
+        "attendance": 100,
+        "grade": "C"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 13,
+        "assignments_completed": 0,
+        "attendance": 64,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 75,
+        "grade": "C"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 7,
+        "assignments_completed": 0,
+        "attendance": 64,
+        "grade": "C"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 32,
+        "grade": "A"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 10,
+        "assignments_completed": 7,
+        "attendance": 27,
+        "grade": "F"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 84,
+        "grade": "A"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 40,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 12,
+        "assignments_completed": 8,
+        "attendance": 22,
+        "grade": "F"
+    },
+    {
+        "internal_score": 40,
+        "study_hours": 5,
+        "assignments_completed": 2,
+        "attendance": 14,
+        "grade": "B"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 6,
+        "assignments_completed": 8,
+        "attendance": 84,
+        "grade": "D"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 4,
+        "assignments_completed": 8,
+        "attendance": 17,
+        "grade": "F"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 13,
+        "assignments_completed": 10,
+        "attendance": 37,
+        "grade": "D"
+    },
+    {
+        "internal_score": 1,
+        "study_hours": 8,
+        "assignments_completed": 8,
+        "attendance": 33,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 2,
+        "assignments_completed": 2,
+        "attendance": 26,
+        "grade": "D"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 3,
+        "assignments_completed": 2,
+        "attendance": 16,
+        "grade": "C"
+    },
+    {
+        "internal_score": 48,
+        "study_hours": 13,
+        "assignments_completed": 5,
+        "attendance": 61,
+        "grade": "A"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 25,
+        "grade": "F"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 9,
+        "assignments_completed": 7,
+        "attendance": 12,
+        "grade": "C"
+    },
+    {
+        "internal_score": 13,
+        "study_hours": 9,
+        "assignments_completed": 5,
+        "attendance": 29,
+        "grade": "F"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 66,
+        "grade": "A"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 4,
+        "assignments_completed": 10,
+        "attendance": 70,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 3,
+        "assignments_completed": 3,
+        "attendance": 95,
+        "grade": "C"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 3,
+        "assignments_completed": 8,
+        "attendance": 73,
+        "grade": "C"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 11,
+        "assignments_completed": 3,
+        "attendance": 74,
+        "grade": "F"
+    },
+    {
+        "internal_score": 47,
+        "study_hours": 11,
+        "assignments_completed": 1,
+        "attendance": 54,
+        "grade": "A"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 0,
+        "assignments_completed": 3,
+        "attendance": 39,
+        "grade": "C"
+    },
+    {
+        "internal_score": 42,
+        "study_hours": 4,
+        "assignments_completed": 3,
+        "attendance": 67,
+        "grade": "B"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 12,
+        "assignments_completed": 4,
+        "attendance": 61,
+        "grade": "F"
+    },
+    {
+        "internal_score": 31,
+        "study_hours": 15,
+        "assignments_completed": 3,
+        "attendance": 36,
+        "grade": "C"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 10,
+        "assignments_completed": 10,
+        "attendance": 86,
+        "grade": "F"
+    },
+    {
+        "internal_score": 44,
+        "study_hours": 11,
+        "assignments_completed": 8,
+        "attendance": 72,
+        "grade": "B"
+    },
+    {
+        "internal_score": 36,
+        "study_hours": 3,
+        "assignments_completed": 2,
+        "attendance": 99,
+        "grade": "B"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 15,
+        "assignments_completed": 5,
+        "attendance": 49,
+        "grade": "C"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 14,
+        "assignments_completed": 10,
+        "attendance": 79,
+        "grade": "C"
+    },
+    {
+        "internal_score": 24,
+        "study_hours": 8,
+        "assignments_completed": 1,
+        "attendance": 51,
+        "grade": "D"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 2,
+        "assignments_completed": 5,
+        "attendance": 98,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 7,
+        "assignments_completed": 1,
+        "attendance": 3,
+        "grade": "C"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 1,
+        "assignments_completed": 4,
+        "attendance": 93,
+        "grade": "C"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 98,
+        "grade": "F"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 3,
+        "assignments_completed": 0,
+        "attendance": 76,
+        "grade": "C"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 7,
+        "assignments_completed": 8,
+        "attendance": 62,
+        "grade": "F"
+    },
+    {
+        "internal_score": 23,
+        "study_hours": 15,
+        "assignments_completed": 0,
+        "attendance": 87,
+        "grade": "D"
+    },
+    {
+        "internal_score": 8,
+        "study_hours": 11,
+        "assignments_completed": 7,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 45,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 41,
+        "grade": "A"
+    },
+    {
+        "internal_score": 19,
+        "study_hours": 1,
+        "assignments_completed": 1,
+        "attendance": 25,
+        "grade": "D"
+    },
+    {
+        "internal_score": 7,
+        "study_hours": 12,
+        "assignments_completed": 5,
+        "attendance": 45,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 6,
+        "assignments_completed": 9,
+        "attendance": 13,
+        "grade": "F"
+    },
+    {
+        "internal_score": 18,
+        "study_hours": 7,
+        "assignments_completed": 8,
+        "attendance": 65,
+        "grade": "D"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 2,
+        "assignments_completed": 9,
+        "attendance": 60,
+        "grade": "F"
+    },
+    {
+        "internal_score": 4,
+        "study_hours": 14,
+        "assignments_completed": 6,
+        "attendance": 93,
+        "grade": "F"
+    },
+    {
+        "internal_score": 28,
+        "study_hours": 2,
+        "assignments_completed": 8,
+        "attendance": 94,
+        "grade": "C"
+    },
+    {
+        "internal_score": 10,
+        "study_hours": 12,
+        "assignments_completed": 10,
+        "attendance": 81,
+        "grade": "F"
+    },
+    {
+        "internal_score": 50,
+        "study_hours": 7,
+        "assignments_completed": 5,
+        "attendance": 77,
+        "grade": "A"
+    },
+    {
+        "internal_score": 3,
+        "study_hours": 4,
+        "assignments_completed": 4,
+        "attendance": 28,
+        "grade": "F"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 4,
+        "assignments_completed": 0,
+        "attendance": 72,
+        "grade": "B"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 0,
+        "assignments_completed": 2,
+        "attendance": 40,
+        "grade": "C"
+    },
+    {
+        "internal_score": 26,
+        "study_hours": 5,
+        "assignments_completed": 7,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 32,
+        "study_hours": 1,
+        "assignments_completed": 9,
+        "attendance": 86,
+        "grade": "C"
+    },
+    {
+        "internal_score": 11,
+        "study_hours": 12,
+        "assignments_completed": 3,
+        "attendance": 11,
+        "grade": "F"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 4,
+        "assignments_completed": 5,
+        "attendance": 25,
+        "grade": "C"
+    },
+    {
+        "internal_score": 29,
+        "study_hours": 7,
+        "assignments_completed": 10,
+        "attendance": 51,
+        "grade": "C"
+    },
+    {
+        "internal_score": 27,
+        "study_hours": 11,
+        "assignments_completed": 4,
+        "attendance": 17,
+        "grade": "C"
+    },
+    {
+        "internal_score": 33,
+        "study_hours": 5,
+        "assignments_completed": 3,
+        "attendance": 36,
+        "grade": "C"
+    },
+    {
+        "internal_score": 12,
+        "study_hours": 0,
+        "assignments_completed": 7,
+        "attendance": 29,
+        "grade": "F"
+    },
+    {
+        "internal_score": 25,
+        "study_hours": 12,
+        "assignments_completed": 7,
+        "attendance": 43,
+        "grade": "C"
+    },
+    {
+        "internal_score": 30,
+        "study_hours": 13,
+        "assignments_completed": 3,
+        "attendance": 93,
+        "grade": "C"
+    },
+    {
+        "internal_score": 35,
+        "study_hours": 13,
+        "assignments_completed": 0,
+        "attendance": 86,
+        "grade": "B"
+    },
+    {
+        "internal_score": 34,
+        "study_hours": 9,
+        "assignments_completed": 3,
+        "attendance": 54,
+        "grade": "C"
+    },
+    {
+        "internal_score": 2,
+        "study_hours": 2,
+        "assignments_completed": 4,
+        "attendance": 81,
+        "grade": "F"
+    },
+    {
+        "internal_score": 22,
+        "study_hours": 13,
+        "assignments_completed": 7,
+        "attendance": 25,
+        "grade": "D"
+    },
+    {
+        "internal_score": 14,
+        "study_hours": 6,
+        "assignments_completed": 4,
+        "attendance": 25,
+        "grade": "F"
+    }
+]

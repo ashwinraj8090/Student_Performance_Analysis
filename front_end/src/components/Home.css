@@ -1,0 +1,53 @@
+/* Home.css */
+.home-container {
+    background: linear-gradient(135deg, #FAD7E4, #C2E9FB); /* Gradient background */
+    min-height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.content {
+    max-width: 800px; /* Limit content width for better readability */
+    padding: 20px;
+    animation: fadeIn 1.5s ease-in-out; /* Fade-in animation */
+}
+
+h1 {
+    font-size: 3rem; /* Larger title */
+    color: #333; /* Dark text for contrast */
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem; /* Slightly larger paragraph text */
+    color: #555; /* Slightly muted text color */
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #1A73E8; /* Primary button color */
+    border: none;
+    padding: 12px 40px; /* Larger button padding */
+    font-size: 1.2rem; /* Larger button text */
+    border-radius: 50px; /* Rounded button */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #1557B2; /* Darker shade on hover */
+    transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
