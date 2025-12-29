@@ -50,7 +50,7 @@ Student_Performance_Analysis/
 ## ⚙️ How It Works
 1. Academic performance data is submitted through the frontend.
 2. The backend preprocesses the data.
-3. 3. A **Random Forest machine learning model** is trained on historical data and used to predict student performance.
+3. A **Random Forest machine learning model** is trained on historical data and used to predict student performance.
 4. Results are returned to the frontend.
 5. The frontend displays predictions and insights visually.
 
