@@ -80,7 +80,6 @@ cd front_end
 npm install
 npm start
 ```
-
 ---
 
 ## 📊 Use Cases
